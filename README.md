@@ -36,8 +36,11 @@ The following code demonstrates how I created a SQL query to filter for employee
 
 The following demonstrates how I created a SQL query to filter for employee machines from employees not in the  Information Technology department.</br>
 
+<img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/raw/main/assets/159082478/d5b3a96a-40e2-4156-93a7-16dee9ad01a9.png" alt="1707190015547">
+<h2>Summary</h2>
+<br>I applied filters to SQL queries to get specific information on login attempts and employee machines. I used two different tables, log_in_attempts and employees. 
 
-
+I used the AND, OR, and NOT operators to filter for the specific information needed for each task. I also used LIKE and the percentage sign (%) wildcard to filter for patterns.</br>
 
 
 
