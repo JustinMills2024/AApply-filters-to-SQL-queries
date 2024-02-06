@@ -16,6 +16,7 @@ The following steps provide examples of how I used SQL with filters to perform s
 
 The following code demonstrates how I created a SQL query to filter for login attempts that occurred on specific dates.</br>
 
+<img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/assets/159082478/a5b742d9-9cc6-4e4c-9b92-a43b323ab511" alt="1707189042692">
 
 
 
