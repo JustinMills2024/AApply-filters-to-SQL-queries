@@ -24,6 +24,10 @@ The following code demonstrates how I created a SQL query to filter for login at
 The following code demonstrates how I created a SQL query to filter for login attempts that occurred outside of Mexico.</br>
 
 <img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/assets/159082478/a1582050-6d31-4362-b15f-e9c8d17a18db" alt="1707189394904">
+<h2>Retrieve employees in Marketing</h2>
+<br>My team wants to update the computers for certain employees in the Marketing department. To do this, I have to get information on which employee machines to update.
+
+The following code demonstrates how I created a SQL query to filter for employee machines from employees in the Marketing department in the East building.</Br>
 
 
 
@@ -31,59 +35,5 @@ The following code demonstrates how I created a SQL query to filter for login at
 
 
 
-<h2>Risk Register</h2>
 
-   <table border="1">
-  <tr>
-    <th>Asset</th>
-    <th>Risk(s)</th>
-    <th>Description</th>
-    <th>Likelihood</th>
-    <th>Severity</th>
-    <th>Priority</th>
-  </tr>
-  <tr>
-    <td>Business email compromise</td>
-    <td>An employee is tricked into sharing confidential information.</td>
-    <td>2</td>
-    <td>2</td>
-    <td>4</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td>Compromised user database</td>
-    <td>Customer data is poorly encrypted.</td>
-    <td>2</td>
-    <td>3</td>
-    <td>6</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>Financial records leak</td>
-    <td>A database server of backed up data is publicly accessible.</td>
-    <td>3</td>
-    <td>3</td>
-    <td>9</td>
-    <td>9</td>
-  </tr>
-  <tr>
-    <td>Theft</td>
-    <td>The bank's safe is left unlocked.</td>
-    <td>1</td>
-    <td>3</td>
-    <td>3</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>Supply chain disruption</td>
-    <td>Delivery delays due to natural disasters.</td>
-    <td>1</td>
-    <td>1</td>
-    <td>2</td>
-    <td>2</td>
-  </tr>
-</table>
-<p>Notes:</p>
-<p>How are security events possible considering the risks the asset faces in its operating environment? 
-  
-  Doing business with other companies may increase the risk of data being stolen. The risk of theft is important, but the bank is in an area with a low crime rate. So, this makes the priority low.</p>
+
