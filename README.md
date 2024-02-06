@@ -18,6 +18,12 @@ The following code demonstrates how I created a SQL query to filter for login at
 
 <img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/assets/159082478/a5b742d9-9cc6-4e4c-9b92-a43b323ab511" alt="1707189042692">
 
+<h2>Retrieve login attempts outside of Mexico</h2>
+<br> Scenario: After investigating the organization’s data on login attempts, I believe there is an issue with the login attempts that occurred outside of Mexico. These login attempts should be investigated.
+
+The following code demonstrates how I created a SQL query to filter for login attempts that occurred outside of Mexico.</br>
+
+
 
 
 
