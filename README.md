@@ -1,4 +1,4 @@
-<h1>Apply filters To SQL queries</h1>
+<h1>Apply Filters To SQL queries</h1>
 
 
 <h2>Project Description</h2>
@@ -31,12 +31,6 @@ The following code demonstrates how I created a SQL query to filter for employee
 
 <img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/assets/159082478/b74a19fa-9a6c-45a0-9ad5-d9507b6c13d0" alt="1707189682247">
 
-<h2>Retrieve all employees not in IT</h2>
-<br> Scenario: My team needs to make one more security update on employees who are not in the Information Technology department. To make the update, I first have to get information on these employees.
-
-The following demonstrates how I created a SQL query to filter for employee machines from employees not in the  Information Technology department.</br>
-
-<img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/raw/main/assets/159082478/d5b3a96a-40e2-4156-93a7-16dee9ad01a9.png" alt="1707190015547">
 <h2>Summary</h2>
 <br>I applied filters to SQL queries to get specific information on login attempts and employee machines. I used two different tables, log_in_attempts and employees. 
 
