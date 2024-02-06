@@ -7,10 +7,18 @@ The following steps provide examples of how I used SQL with filters to perform s
 <br/>
 <h2>Retrieve After Hours Failed Login Attempts
 </h2>
-<br>There was a potential security incident that occurred after business hours (after 18:00). All after hours login attempts that failed need to be investigated.</br>
+<br> Scenario: There was a potential security incident that occurred after business hours (after 18:00). All after hours login attempts that failed need to be investigated.</br>
 <br>The following code demonstrates how I created a SQL query to filter for failed login attempts that occurred after business hours.<br>
 
-[1707187588384.pdf](https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/files/14174082/1707187588384.pdf)
+<img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/assets/159082478/9e4121bb-1d3e-48d9-be19-133ea0f4aef3" alt="1707187000943">
+<H2>Retrieve login attempts on specific dates</H2>
+<br> Scenario: A suspicious event occurred on 2022-05-09. Any login activity that happened on 2022-05-09 or on the day before needs to be investigated.
+
+The following code demonstrates how I created a SQL query to filter for login attempts that occurred on specific dates.</br>
+
+
+
+
 
 
 
