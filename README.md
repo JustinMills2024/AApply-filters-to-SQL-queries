@@ -25,9 +25,16 @@ The following code demonstrates how I created a SQL query to filter for login at
 
 <img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/assets/159082478/a1582050-6d31-4362-b15f-e9c8d17a18db" alt="1707189394904">
 <h2>Retrieve employees in Marketing</h2>
-<br>My team wants to update the computers for certain employees in the Marketing department. To do this, I have to get information on which employee machines to update.
+<br> Scenario: My team wants to update the computers for certain employees in the Marketing department. To do this, I have to get information on which employee machines to update.
 
 The following code demonstrates how I created a SQL query to filter for employee machines from employees in the Marketing department in the East building.</Br>
+
+<img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/assets/159082478/b74a19fa-9a6c-45a0-9ad5-d9507b6c13d0" alt="1707189682247">
+
+<h2>Retrieve all employees not in IT</h2>
+<br> Scenario: My team needs to make one more security update on employees who are not in the Information Technology department. To make the update, I first have to get information on these employees.
+
+The following demonstrates how I created a SQL query to filter for employee machines from employees not in the  Information Technology department.</br>
 
 
 
