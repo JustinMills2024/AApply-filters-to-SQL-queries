@@ -23,6 +23,7 @@ The following code demonstrates how I created a SQL query to filter for login at
 
 The following code demonstrates how I created a SQL query to filter for login attempts that occurred outside of Mexico.</br>
 
+<img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/assets/159082478/a1582050-6d31-4362-b15f-e9c8d17a18db" alt="1707189394904">
 
 
 
