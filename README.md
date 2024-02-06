@@ -10,6 +10,8 @@ The following steps provide examples of how I used SQL with filters to perform s
 <br>There was a potential security incident that occurred after business hours (after 18:00). All after hours login attempts that failed need to be investigated.</br>
 <br>The following code demonstrates how I created a SQL query to filter for failed login attempts that occurred after business hours.<br>
 
+[1707187588384.pdf](https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/files/14174082/1707187588384.pdf)
+
 
 
 
